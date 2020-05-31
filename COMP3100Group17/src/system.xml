@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- system information generated for ds-sim@MQ, 6-Mar, 2020 @ MQ -->
+<system>
+	<servers>
+		<server type="elephant" limit="5" bootupTime="200" rate="3.20" coreCount="64" memory="256000" disk="1024000" />
+		<server type="ant" limit="40" bootupTime="5" rate="0.05" coreCount="1" memory="4000" disk="16000" />
+		<server type="dunkey" limit="20" bootupTime="60" rate="0.40" coreCount="8" memory="32000" disk="256000" />
+	</servers>
+</system>
